@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0e22e8"],{"7e37":function(n,e,s){"use strict";function a(n){var e="";switch(n){case"syys":e="boat";break;case"kyys":e="plant";break;case"tlys":e="train";break;case"glys":e="car"}return e}s.r(e),s.d(e,"getTransportIcon",(function(){return a}))}}]);
